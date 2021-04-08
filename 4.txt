@@ -1,0 +1,12 @@
+       
+			You have selected Hyundai Verna (Model 4)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            21.30 kmpl
+			Fuel Type   		 :	      Diesel
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1493
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            45 liters
+			Body Type		 : 	      Sedan

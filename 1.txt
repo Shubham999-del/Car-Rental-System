@@ -1,0 +1,12 @@
+       
+			You have selected Maruti WagonR (Model 1)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            21.79 kmpl
+			Fuel Type   		 :	      Petrol
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1197
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            32 liters
+			Body Type		 :	      Hatchback

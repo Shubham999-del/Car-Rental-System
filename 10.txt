@@ -1,0 +1,12 @@
+       
+			You have selected Jeep Wrangler (Model 10)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            12.10 kmpl
+			Fuel Type   		 :	      Petrol
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1998
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            81 liters
+			Body Type		 : 	      SUV

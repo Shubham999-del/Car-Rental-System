@@ -1,0 +1,12 @@
+       
+			You have selected Maruti Swift Dzire (Model 3)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            24.12 kmpl
+			Fuel Type   		 :	      Petrol
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1197
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            37 liters
+			Body Type		 : 	      Sedan

@@ -1,0 +1,12 @@
+       
+			You have selected Maruti Swift (Model 2).
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            21.21 kmpl
+			Fuel Type   		 :	      Petrol
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1197
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            37 liters
+			Body Type		 : 	      Hatchback

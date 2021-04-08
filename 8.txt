@@ -1,0 +1,12 @@
+       
+			You have selected Toyota Innova (Model 8)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            15.00 kmpl
+			Fuel Type   		 :	      Diesel
+			Seating Capacity	 :	      7
+			Engine Displacement (cc) :	      2393
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            55 liters
+			Body Type		 : 	      SUV

@@ -1,0 +1,16 @@
+			      ****** SOE CAR RENTAL SYSTEM ******
+
+     ____________________________________________________________________________________
+    |Note: Here at SOE CAR RENTAL SYSTEM we offer 2 kinds of user services. Under User 1,|
+    |      you can rent a Car whereas under user 2, you can provide your car for renting |
+    |      and earn some money.                                                          |
+    |____________________________________________________________________________________|			
+					
+				 	Press 1 if User 1
+
+					Press 2 if User 2
+
+					Press 3 if Admin
+
+					Press 0 to Exit
+			

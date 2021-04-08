@@ -1,0 +1,12 @@
+       
+			You have selected Honda Amaze (Model 5)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            21.00 kmpl
+			Fuel Type   		 :	      Diesel
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1493
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            35 liters
+			Body Type		 : 	      Sedan

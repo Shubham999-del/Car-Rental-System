@@ -1,0 +1,12 @@
+       
+			You have selected Toyota Etios (Model 5)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            17.71 kmpl
+			Fuel Type   		 :	      Petrol
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      1197
+			TransmissionType	 :	      Manual
+			Fuel Tank Capacity	 :            45 liters
+			Body Type		 : 	      Hatchback

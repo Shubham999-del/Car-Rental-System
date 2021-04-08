@@ -1,0 +1,12 @@
+       
+			You have selected Mhindra Thar (Model 9)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            15.20 kmpl
+			Fuel Type   		 :	      Diesel
+			Seating Capacity	 :	      5
+			Engine Displacement (cc) :	      2184
+			TransmissionType	 :	      Automatic
+			Fuel Tank Capacity	 :            57 liters
+			Body Type		 : 	      SUV

@@ -1,0 +1,12 @@
+       
+			You have selected Mahindra Bolero (Model 7)
+				
+					** SPECIFICATIONS **
+
+			Mileage                  :            21.00 kmpl
+			Fuel Type   		 :	      Diesel
+			Seating Capacity	 :	      7
+			Engine Displacement (cc) :	      1498
+			TransmissionType	 :	      Manual
+			Fuel Tank Capacity	 :            60 liters
+			Body Type		 : 	      SUV

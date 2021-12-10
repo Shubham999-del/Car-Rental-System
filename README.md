@@ -9,7 +9,7 @@
  The project has two modes in which a user can work with it :-
  1) User 1 <br/>
     • User can view the car details. (available cars and their prices) <br/>
-    ![alt text](http://url/to/img.png)
+    ![alt text](https://github.com/Shubham999-del/Car-Rental-System/blob/master/car_prices.png)
     • User can rent a car from the garage. <br/>
     
 
